@@ -1,0 +1,12 @@
+{
+  "full_name": "Om Mohanty",
+  "primary_email": "om.mohanty@email.com",
+  "phone": "+919876543210",
+  "skills": [
+    "Python",
+    "React",
+    "Docker",
+    "AWS"
+  ],
+  "overall_confidence": 0.92
+}

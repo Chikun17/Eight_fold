@@ -1,0 +1,5 @@
+Candidate: Om Mohanty
+Email: om.mohanty@email.com
+Strong background in Python and React. Worked at TechCorp as a Software Engineer.
+Has experience with Docker and AWS. Based in Bhubaneswar, India.
+Github: github.com/ommohanty

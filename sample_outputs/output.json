@@ -1,0 +1,122 @@
+{
+  "candidate_id": "06cad036-5bb4-40be-8438-c1baa7f3d613",
+  "full_name": "Om Mohanty",
+  "emails": [
+    "om.mohanty@email.com",
+    "om.m@gmail.com"
+  ],
+  "phones": [
+    "+919876543210"
+  ],
+  "location": {
+    "city": "Bhubaneswar, India",
+    "region": null,
+    "country": "IN"
+  },
+  "links": {
+    "linkedin": null,
+    "github": "https://github.com/ommohanty",
+    "portfolio": null,
+    "other": []
+  },
+  "headline": "Software Engineer Intern",
+  "years_experience": null,
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": 0.6,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": 0.6,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 0.6,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "AWS",
+      "confidence": 0.6,
+      "sources": [
+        "recruiter_notes"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "TechCorp",
+      "title": "Software Engineer Intern",
+      "start": null,
+      "end": null,
+      "summary": null
+    }
+  ],
+  "education": [],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "recruiter_csv",
+      "method": "priority_pick"
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_csv",
+      "method": "collected"
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_csv",
+      "method": "collected"
+    },
+    {
+      "field": "phones",
+      "source": "recruiter_csv",
+      "method": "normalized_e164"
+    },
+    {
+      "field": "experience",
+      "source": "recruiter_csv",
+      "method": "priority_pick"
+    },
+    {
+      "field": "skills.Python",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "skills.React",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "skills.Docker",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "skills.AWS",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "links.github",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "location.city",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    }
+  ],
+  "overall_confidence": 0.92
+}

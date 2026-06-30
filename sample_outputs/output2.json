@@ -1,0 +1,96 @@
+{
+  "candidate_id": "e384d4cb-d854-4c96-b67c-8d838c834b6d",
+  "full_name": "Om Mohanty",
+  "emails": [
+    "om.mohanty@email.com"
+  ],
+  "phones": [],
+  "location": {
+    "city": "Bhubaneswar, India",
+    "region": null,
+    "country": "IN"
+  },
+  "links": {
+    "linkedin": null,
+    "github": "https://github.com/ommohanty",
+    "portfolio": null,
+    "other": []
+  },
+  "headline": null,
+  "years_experience": null,
+  "skills": [
+    {
+      "name": "Python",
+      "confidence": 0.6,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "React",
+      "confidence": 0.6,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 0.6,
+      "sources": [
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "AWS",
+      "confidence": 0.6,
+      "sources": [
+        "recruiter_notes"
+      ]
+    }
+  ],
+  "experience": [],
+  "education": [],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "recruiter_notes",
+      "method": "priority_pick"
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_notes",
+      "method": "collected"
+    },
+    {
+      "field": "skills.Python",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "skills.React",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "skills.Docker",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "skills.AWS",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "links.github",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    },
+    {
+      "field": "location.city",
+      "source": "recruiter_notes",
+      "method": "keyword_match"
+    }
+  ],
+  "overall_confidence": 0.52
+}
